@@ -5,7 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden; /* Hide the default body overflow */
+    overflow: hidden; 
 }
 
 header {
@@ -14,7 +14,7 @@ header {
     left: 0;
     width: 100%;
     height: 100%;
-    z-index: -1; /* Place the image behind other content */
+    z-index: -1; 
 }
 
 .myimage {
@@ -48,7 +48,7 @@ header {
 .task-container {
     width: 100%;
     max-width: 600px;
-    height: 300px; /* Set your desired height */
+    height: 300px; 
     overflow-y: auto;
     padding: 20px;
     border: rgb(160, 157, 157) solid;
@@ -141,14 +141,14 @@ color:#004b13 ;
 }
 
 .task-item button.edit {
-    background-color: #375c75; /* Blue background color for edit button */
-    margin-left: auto; /* Push both buttons to the right */
+    background-color: #375c75; 
+    margin-left: auto; 
     margin-right: 5px;
     width: 50px;
 }
 
 .task-item button.delete {
-    background-color: #88281de3; /* Red background color for delete button */
+    background-color: #88281de3; 
     width: 60px;
     margin: 8px;
 }
