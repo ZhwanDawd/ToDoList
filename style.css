@@ -129,7 +129,7 @@ color:#004b13 ;
     word-wrap: break-word;
     white-space: normal;
     margin-left: 8px;
-    max-width: calc(100% - 160px); /* Adjust max-width based on your preference */
+    max-width: calc(100% - 160px); 
 }
 
 .task-item button {
